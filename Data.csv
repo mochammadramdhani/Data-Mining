@@ -1,0 +1,24 @@
+Country,Age,Salary,Purchased
+France,44,72000,No
+Spain,27,48000,Yes
+Germany,30,54000,No
+Spain,38,61000,No
+Germany,40,,Yes
+France,35,58000,Yes
+Spain,,52000,No
+France,48,79000,Yes
+Germany,50,83000,No
+France,37,67000,Yes
+Japan,48,,No
+India,,78000,Yes
+UAE,50,28000,Yes
+Australia,,56000,Yes
+Korea,39,44000,No
+England,55,78000,No
+Malaysia,47,69000,Yes
+Pakistan,54,80000,Yes
+China,77,45000,No
+Malaysia,44,60000,Yes
+Turki ,76,51000,No
+Pakistan,89,45000,No
+China,44,76000,Yes
